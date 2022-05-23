@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/zenin/static/css/main.73fa6877.css",
+    "main.js": "/zenin/static/js/main.f488da60.js",
+    "static/media/2.png": "/zenin/static/media/2.a658c0b2e38a19e4a74e.png",
+    "static/media/1.png": "/zenin/static/media/1.e717c257d258bcacad79.png",
+    "static/media/allcharachetrs.png": "/zenin/static/media/allcharachetrs.3981bf587b204800c0ba.png",
+    "static/media/logo.png": "/zenin/static/media/logo.620a5cd44fccf9efe98b.png",
+    "static/media/zeninback.svg": "/zenin/static/media/zeninback.bb978fcdf4542daf96e233d08e16909c.svg",
+    "index.html": "/zenin/index.html",
+    "main.73fa6877.css.map": "/zenin/static/css/main.73fa6877.css.map",
+    "main.f488da60.js.map": "/zenin/static/js/main.f488da60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73fa6877.css",
+    "static/js/main.f488da60.js"
+  ]
+}
